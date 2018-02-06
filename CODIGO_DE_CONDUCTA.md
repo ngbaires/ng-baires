@@ -11,9 +11,8 @@ Contamos con la cooperación de todos los participantes para ayudar a garantizar
 
 ​   | Member           | Twitter                                 | Email
 ----|------------------|-----------------------------------------|-------------------
-[![@jorgeucano](https://avatars3.githubusercontent.com/u/5982204?s=96&v=4)](https://github.com/jorgeucano) | Jorge Cano | [@jorgeucano](https://twitter.com/jorgeucano) | jorgeucano@gmail.com
-[![@AndresCenci](https://avatars1.githubusercontent.com/u/6705070?s=64&v=4)](https://github.com/AndresCenci) | Andres Cenci | [@reOrtiba](https://twitter.com/reOrtiba) | TBD@gmail.com
-
+[![@jorgeucano](https://avatars3.githubusercontent.com/u/5982204?v=3&s=40)](https://github.com/jorgeucano) | Jorge Cano | [@jorgeucano](https://twitter.com/jorgeucano) | jorgeucano@gmail.com
+[![@AndresCenci](https://avatars1.githubusercontent.com/u/6705070?v=3&s=40)](https://github.com/AndresCenci) | Andres Cenci | [@reOrtiba](https://twitter.com/reOrtiba) | TBD@gmail.com
 
 ## Version Rapida
 
